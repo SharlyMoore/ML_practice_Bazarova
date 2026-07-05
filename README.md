@@ -33,4 +33,4 @@ python src/compare_models.py
 
 ## Автор
 
-ФИО
+Базарова Дарья Витальевна
