@@ -6,30 +6,21 @@
 
 Цель проекта — сравнение различных моделей семейства YOLOv8 для обнаружения объектов на изображениях.
 
-## Используемые технологии
+В рамках проекта проведено сравнение пяти моделей YOLOv8 различного размера:
+- YOLOv8n (Nano) — 3.2M параметров
+- YOLOv8s (Small) — 11.2M параметров
+- YOLOv8m (Medium) — 25.9M параметров
+- YOLOv8l (Large) — 43.7M параметров
+- YOLOv8x (Extra Large) — 68.2M параметров
 
-- Python 3.13
-- PyTorch
-- Ultralytics YOLOv8
-- OpenCV
-- Matplotlib
 
-## Структура проекта
-
-```
-data/
-images/
-models/
-results/
-src/
-report/
-```
 
 ## Запуск
-
-```bash
 python src/compare_models.py
-```
+
+
+или по одной модели:
+python src/test_one_model.py
 
 ## Автор
 
