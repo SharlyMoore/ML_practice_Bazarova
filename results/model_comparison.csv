@@ -1,0 +1,8 @@
+Model,Objects,Average confidence,Time (s)
+yolov8n.pt,16,0.6,3.76
+yolov8s.pt,14,0.64,0.43
+yolov8m.pt,16,0.68,1.16
+yolov8l.pt,15,0.75,8.81
+yolov8s.pt,14,0.64,3.56
+yolov8m.pt,16,0.68,4.38
+yolov8n.pt,16,0.6,3.78

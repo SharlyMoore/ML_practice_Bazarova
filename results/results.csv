@@ -1,0 +1,17 @@
+Object,Confidence
+car,0.94
+dog,0.92
+car,0.75
+person,0.73
+car,0.69
+person,0.65
+person,0.62
+car,0.61
+person,0.6
+person,0.53
+car,0.52
+person,0.52
+person,0.48
+person,0.41
+car,0.36
+person,0.29
